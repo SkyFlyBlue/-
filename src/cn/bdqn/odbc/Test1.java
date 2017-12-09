@@ -6,8 +6,11 @@ import java.sql.SQLException;
 import java.util.logging.Logger;
 
 /**
-*测试git修改后同步
-**/
+ * 修改后传入git服务器
+ *
+ * @author br.li
+ *
+ */
 public class Test1 {
 	private static Logger logger=Logger.getLogger(Test1.class.getName());
 	public static void main(String[] args) {
